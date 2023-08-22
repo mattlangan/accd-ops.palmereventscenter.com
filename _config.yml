@@ -2,7 +2,7 @@ title: PEC Operational Policy
 description: Official PEC Operational Policy 
 url: "https://ops.palmereventscenter.com"
 theme: 
-remote_theme: cityofaustin/jekyll-theme-kocurek@v0.2
+remote_theme: cityofaustin/jekyll-theme-kocurek@v1.0
 searchable: true
 printable: true
 random_background_images: 3
